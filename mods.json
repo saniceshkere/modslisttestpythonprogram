@@ -1,0 +1,1336 @@
+{
+  "version": "1.21",
+  "loader": "fabric",
+  "mods": [
+    {
+      "name": "3d-Skin-Layers",
+      "author": "tr7zw",
+      "modrinth_id": "zV5r3pPn",
+      "version": "1.9.0",
+      "filename": "skinlayers3d-fabric-1.9.0-mc1.21.jar"
+    },
+    {
+      "name": "AdventureZ",
+      "author": "Globox_Z",
+      "modrinth_id": "defK2XM3",
+      "version": "1.4.21",
+      "filename": "adventurez-1.4.21.jar"
+    },
+    {
+      "name": "AmbientSounds",
+      "author": "CreativeMD",
+      "modrinth_id": "fM515JnW",
+      "version": "6.0.5",
+      "filename": "AmbientSounds_FABRIC_v6.0.5_mc1.21.jar"
+    },
+    {
+      "name": "AppleSkin",
+      "author": "squeek502",
+      "modrinth_id": "EsAfCjCV",
+      "version": "3.0.6+mc1.21",
+      "filename": "appleskin-fabric-mc1.21-3.0.6.jar"
+    },
+    {
+      "name": "Architectury",
+      "author": "shedaniel",
+      "modrinth_id": "lhGA9TYQ",
+      "version": "13.0.8",
+      "filename": "architectury-13.0.8-fabric.jar"
+    },
+    {
+      "name": "Armor Stand Arms",
+      "author": "Jodek",
+      "modrinth_id": "GWFnD2zx",
+      "version": "1-v2.5.2",
+      "filename": "armor-stand-arms-v2.5.2.jar"
+    },
+    {
+      "name": "Async Pack Scan",
+      "author": "JFronny",
+      "modrinth_id": "FuRR0tKd",
+      "version": "0.2.5",
+      "filename": "async-pack-scan-0.2.5.jar"
+    },
+    {
+      "name": "Athena",
+      "author": "ThatGravyBoat",
+      "modrinth_id": "b1ZV3DIJ",
+      "version": "4.0.0",
+      "filename": "athena-fabric-1.21-4.0.0.jar"
+    },
+    {
+      "name": "Axes Are Weapons",
+      "author": "Fourmisain",
+      "modrinth_id": "1jvt7RTc",
+      "version": "1.10.2",
+      "filename": "AxesAreWeapons-1.10.2-fabric-1.21.jar"
+    },
+    {
+      "name": "Balm",
+      "author": "BlayTheNinth",
+      "modrinth_id": "MBAkmtvl",
+      "version": "21.0.41",
+      "filename": "balm-fabric-1.21.1-21.0.41.jar"
+    },
+    {
+      "name": "BasicNetherOres",
+      "author": "cScotPlay",
+      "modrinth_id": "dCSG7wIX",
+      "version": "10.0.2",
+      "filename": "BasicNetherOres-fabric-1.21-10.0.2.jar"
+    },
+    {
+      "name": "Better Combat",
+      "author": "Daedelus",
+      "modrinth_id": "5sy6g3kz",
+      "version": "2.3.2+1.21.1",
+      "filename": "bettercombat-fabric-2.3.2+1.21.1.jar"
+    },
+    {
+      "name": "BetterF3",
+      "author": "cominixo, TreyRuffy",
+      "modrinth_id": "8shC1gFX",
+      "version": "11.0.1",
+      "filename": "BetterF3-11.0.1-Fabric-1.21.jar"
+    },
+    {
+      "name": "CICADA",
+      "author": "enjarai",
+      "modrinth_id": "IwCkru1D",
+      "version": "0.8.0+1.21-and-above",
+      "filename": "cicada-lib-0.8.0+1.21-and-above.jar"
+    },
+    {
+      "name": "CICADA Cape Fix",
+      "author": "Definitely not enjarai",
+      "modrinth_id": "G4jSHKNt",
+      "version": "1.0.0",
+      "filename": "cicada-cape-fix-1.0.0.jar"
+    },
+    {
+      "name": "CIT Resewn",
+      "author": "SHsuperCM",
+      "modrinth_id": "otVJckYQ",
+      "version": "1.2.2+1.21",
+      "filename": "citresewn-1.2.2+1.21.jar"
+    },
+    {
+      "name": "Camerapture",
+      "author": "chrrrs",
+      "modrinth_id": "9dzLWnmZ",
+      "version": "1.10.12",
+      "filename": "Camerapture-1.10.12+mc1.21.1-fabric.jar"
+    },
+    {
+      "name": "Carry On",
+      "author": "Tschipp, Purplicious_Cow",
+      "modrinth_id": "joEfVgkn",
+      "version": "2.2.1",
+      "filename": "carryon-fabric-1.21-2.2.1.jar"
+    },
+    {
+      "name": "Chat Heads",
+      "author": "dzwdz, Fourmisain",
+      "modrinth_id": "Wb5oqrBJ",
+      "version": "0.15.1",
+      "filename": "chat_heads-0.15.1-fabric-1.21.jar"
+    },
+    {
+      "name": "ChatAnimation",
+      "author": "Ezzenix",
+      "modrinth_id": "DnNYdJsx",
+      "version": "1.0.6",
+      "filename": "chatanimation-1.0.6.jar"
+    },
+    {
+      "name": "Chef's Delight",
+      "author": "Redstone Games",
+      "modrinth_id": "pvcsfne4",
+      "version": "1.0.4-fabric-1.21.1",
+      "filename": "chefs-delight-1.0.4-fabric-1.21.1.jar"
+    },
+    {
+      "name": "Chunky",
+      "author": "pop4959",
+      "modrinth_id": "fALzjamp",
+      "version": "1.4.23",
+      "filename": "Chunky-Fabric-1.4.23.jar"
+    },
+    {
+      "name": "Client Tweaks",
+      "author": "BlayTheNinth",
+      "modrinth_id": "vPNqo58Q",
+      "version": "21.1.7",
+      "filename": "clienttweaks-fabric-1.21.1-21.1.7.jar"
+    },
+    {
+      "name": "Cloth Config v15",
+      "author": "shedaniel",
+      "modrinth_id": "9s6osm5g",
+      "version": "15.0.140",
+      "filename": "cloth-config-15.0.140-fabric.jar"
+    },
+    {
+      "name": "Cobweb",
+      "author": "Crystal Spider, Moonstone Webber, Noir",
+      "modrinth_id": "dQcfqGbl",
+      "version": "1.4.0",
+      "filename": "cobweb-fabric-1.21-1.4.0.jar"
+    },
+    {
+      "name": "Collective",
+      "author": "Rick South",
+      "modrinth_id": "e0M1UDsY",
+      "version": "8.21",
+      "filename": "collective-1.21.1-8.21.jar"
+    },
+    {
+      "name": "Comforts",
+      "author": "Illusive Soulworks",
+      "modrinth_id": "SaCpeal4",
+      "version": "9.0.5+1.21.1",
+      "filename": "comforts-fabric-9.0.5+1.21.1.jar"
+    },
+    {
+      "name": "Continuity",
+      "author": "PepperCode1",
+      "modrinth_id": "1IjD5062",
+      "version": "3.0.0+1.21",
+      "filename": "continuity-3.0.0+1.21.jar"
+    },
+    {
+      "name": "Controlling",
+      "author": "Jaredlll08",
+      "modrinth_id": "xv94TkTM",
+      "version": "18.0.4",
+      "filename": "Controlling-fabric-1.21-18.0.4.jar"
+    },
+    {
+      "name": "CoolRain",
+      "author": "Jaiz",
+      "modrinth_id": "iDyqnQLT",
+      "version": "1.1.0-1.21",
+      "filename": "coolrain-1.1.0-1.21.jar"
+    },
+    {
+      "name": "CoroUtil",
+      "author": "Corosus",
+      "modrinth_id": "rLLJ1OZM",
+      "version": "1.21.0-1.3.7",
+      "filename": "coroutil-fabric-1.21.0-1.3.7.jar"
+    },
+    {
+      "name": "CraftTweaker",
+      "author": "Jaredlll08, Kindlich, StanHebben and TheSilkMiner",
+      "modrinth_id": "Xg35A4rS",
+      "version": "20.0.24",
+      "filename": "CraftTweaker-fabric-1.21-20.0.24.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "author": "CreativeMD, AriaFreeze",
+      "modrinth_id": "OsZiaDHq",
+      "version": "2.12.9",
+      "filename": "CreativeCore_FABRIC_v2.12.9_mc1.21.jar"
+    },
+    {
+      "name": "Crops Love Rain",
+      "author": "ThePoultryMan",
+      "modrinth_id": "cRci7UZp",
+      "version": "3.2.1",
+      "filename": "cropsloverain-3.2.1.jar"
+    },
+    {
+      "name": "Cubes Without Borders",
+      "author": "Kir_Antipov",
+      "modrinth_id": "ETlrkaYF",
+      "version": "3.0.0+mc1.21",
+      "filename": "cwb-fabric-3.0.0+mc1.21.jar"
+    },
+    {
+      "name": "Default Skill Trees",
+      "author": "Pufferfish",
+      "modrinth_id": "4w7YR25f",
+      "version": "1.1",
+      "filename": "default_skill_trees-1.1.jar"
+    },
+    {
+      "name": "Detail Armor Bar",
+      "author": "RedLime",
+      "modrinth_id": "hAt6ty93",
+      "version": "2.6.3+1.21-fabric",
+      "filename": "DetailArmorBar-2.6.3+1.21-fabric.jar"
+    },
+    {
+      "name": "Draggable Lists",
+      "author": "MrMelon54",
+      "modrinth_id": "aLcHfalx",
+      "version": "1.0.8",
+      "filename": "draggable_lists-mc1.20.6-1.0.8-build.44.jar"
+    },
+    {
+      "name": "Dynamic FPS",
+      "author": "juliand665, LostLuma",
+      "modrinth_id": "LQ3K71Q1",
+      "version": "3.11.4",
+      "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar"
+    },
+    {
+      "name": "Easy Magic",
+      "author": "Fuzs",
+      "modrinth_id": "9hx3AbJM",
+      "version": "21.0.4",
+      "filename": "EasyMagic-v21.0.4-1.21-Fabric.jar"
+    },
+    {
+      "name": "Easy Villager",
+      "author": "YourName",
+      "modrinth_id": "weUtsFMX",
+      "version": "1.21.1",
+      "filename": "easy-villager-fabric-1.21.1.jar"
+    },
+    {
+      "name": "Elytra Slot",
+      "author": "Illusive Soulworks",
+      "modrinth_id": "mSQF1NpT",
+      "version": "9.0.1+1.21.1",
+      "filename": "elytraslot-fabric-9.0.1+1.21.1.jar"
+    },
+    {
+      "name": "End Remastered",
+      "author": "Jack Bagel",
+      "modrinth_id": "ZJTGwAND",
+      "version": "6.0.2",
+      "filename": "endrem-fabric-1.21.X-6.0.2.jar"
+    },
+    {
+      "name": "Enhanced Block Entities",
+      "author": "FoundationGames",
+      "modrinth_id": "OVuFYfre",
+      "version": "0.10.2+1.21",
+      "filename": "enhancedblockentities-0.10.2+1.21.jar"
+    },
+    {
+      "name": "Entity Model Features",
+      "author": "Traben",
+      "modrinth_id": "4I1XuqiY",
+      "version": "3.2.2",
+      "filename": "entity_model_features_1.21-fabric-3.2.2.jar"
+    },
+    {
+      "name": "Entity Texture Features",
+      "author": "Traben",
+      "modrinth_id": "BVzZfTc1",
+      "version": "7.1",
+      "filename": "entity_texture_features_1.21-fabric-7.1.jar"
+    },
+    {
+      "name": "Expanded Axe Enchanting",
+      "author": "SmushyTaco",
+      "modrinth_id": "nmJ9dZtI",
+      "version": "1.0.10",
+      "filename": "expanded-axe-enchanting-1.0.10.jar"
+    },
+    {
+      "name": "Explosive Enhancement",
+      "author": "Superkat32",
+      "modrinth_id": "OSQ8mw2r",
+      "version": "1.3.2-1.21-1.21.1",
+      "filename": "explosive-enhancement-1.3.2-1.21-1.21.1.jar"
+    },
+    {
+      "name": "Fabric API",
+      "author": "FabricMC",
+      "modrinth_id": "P7dR8mSH",
+      "version": "0.102.0+1.21",
+      "filename": "fabric-api-0.102.0+1.21.jar"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "author": "FabricMC",
+      "modrinth_id": "Ha28R6CL",
+      "version": "1.13.8+kotlin.2.3.0",
+      "filename": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar"
+    },
+    {
+      "name": "FabricSkyBoxes",
+      "author": "AMereBagatelle",
+      "modrinth_id": "YBz7DOs8",
+      "version": "0.7.4+mc1.21",
+      "filename": "fabricskyboxes-0.7.4+mc1.21.jar"
+    },
+    {
+      "name": "FallingTree",
+      "author": "Rakambda",
+      "modrinth_id": "Fb4jn8m6",
+      "version": "1.21.0.8",
+      "filename": "FallingTree-1.21-1.21.0.8.jar"
+    },
+    {
+      "name": "Farmer Enchants",
+      "author": "Neni-o",
+      "modrinth_id": "VifXuvHK",
+      "version": "1.0.0",
+      "filename": "Farmer Enchants v1.0.0-1.21 Fabric.jar"
+    },
+    {
+      "name": "Farmer's Delight",
+      "author": "MehVahdJukaar, MerchantCalico",
+      "modrinth_id": "7vxePowz",
+      "version": "1.21.1-3.1.1+refabricated",
+      "filename": "FarmersDelight-1.21.1-3.1.1+refabricated.jar"
+    },
+    {
+      "name": "Farmer's Knives",
+      "author": "ianm1647, Rebel459",
+      "modrinth_id": "uc3VdfLM",
+      "version": "1.21.1-4.2.0",
+      "filename": "farmersknives-fabric-1.21.1-4.2.0.jar"
+    },
+    {
+      "name": "FastQuit",
+      "author": "KingContaria",
+      "modrinth_id": "x1hIzbuY",
+      "version": "3.0.0+1.20.6",
+      "filename": "fastquit-3.0.0+1.20.6.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "author": "malte0811",
+      "modrinth_id": "uXXizFIs",
+      "version": "7.0.0",
+      "filename": "ferritecore-7.0.0-fabric.jar"
+    },
+    {
+      "name": "Forge Config API Port",
+      "author": "Fuzs",
+      "modrinth_id": "ohNO6lps",
+      "version": "21.0.8",
+      "filename": "ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar"
+    },
+    {
+      "name": "Formations",
+      "author": "SuperMartijn642",
+      "modrinth_id": "tPe4xnPd",
+      "version": "1.0.2",
+      "filename": "formations-1.0.2-fabric-mc1.21.jar"
+    },
+    {
+      "name": "Formations Nether",
+      "author": "SuperMartijn642",
+      "modrinth_id": "cGvQGRls",
+      "version": "1.0.5",
+      "filename": "formationsnether-1.0.5-mc1.21+.jar"
+    },
+    {
+      "name": "Fusion",
+      "author": "SuperMartijn642",
+      "modrinth_id": "p19vrgc2",
+      "version": "1.2.12",
+      "filename": "fusion-1.2.12-fabric-mc1.21.jar"
+    },
+    {
+      "name": "Fzzy Config",
+      "author": "fzzyhmstrs",
+      "modrinth_id": "hYykXjDp",
+      "version": "0.7.5+1.21",
+      "filename": "fzzy_config-0.7.5+1.21.jar"
+    },
+    {
+      "name": "GeckoLib 4",
+      "author": "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin",
+      "modrinth_id": "8BmcQJ2H",
+      "version": "4.5.8",
+      "filename": "geckolib-fabric-1.21-4.5.8.jar"
+    },
+    {
+      "name": "GlitchCore",
+      "author": "Adubbz",
+      "modrinth_id": "s3dmwKy5",
+      "version": "2.0.0.0",
+      "filename": "GlitchCore-fabric-1.21-2.0.0.0.jar"
+    },
+    {
+      "name": "Global Packs",
+      "author": "JTK222",
+      "modrinth_id": "NRLPy2mk",
+      "version": "21.0.6",
+      "filename": "globalpacks-fabric-1.21.1-21.0.6.jar"
+    },
+    {
+      "name": "Handcrafted",
+      "author": "Alex Nijjar, Kekie6",
+      "modrinth_id": "pJmCFF0p",
+      "version": "4.0.1",
+      "filename": "handcrafted-fabric-1.21-4.0.1.jar"
+    },
+    {
+      "name": "Harvest with ease",
+      "author": "Crystal Spider, Moonstone Webber, Noir",
+      "modrinth_id": "W4Ajthd2",
+      "version": "9.4.0",
+      "filename": "harvest-with-ease-fabric-1.21-9.4.0.jar"
+    },
+    {
+      "name": "Held Item Info",
+      "author": "Neecko5b84",
+      "modrinth_id": "tEcWzCZz",
+      "version": "1.7.0",
+      "filename": "held-item-info-1.7.0.jar"
+    },
+    {
+      "name": "Highlighter",
+      "author": "Grend",
+      "modrinth_id": "cVNW5lr6",
+      "version": "1.1.11",
+      "filename": "Highlighter-1.21-fabric-1.1.11.jar"
+    },
+    {
+      "name": "Hold My Items",
+      "author": "sapling.",
+      "modrinth_id": "AP8rDDLS",
+      "version": "4.3",
+      "filename": "HMI 4.3 - 1.21.(1"
+    },
+    {
+      "name": "Iceberg",
+      "author": "Grend",
+      "modrinth_id": "5faXoLqX",
+      "version": "1.2.7",
+      "filename": "Iceberg-1.21-fabric-1.2.7.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "author": "RK_01",
+      "modrinth_id": "5ZwdcRci",
+      "version": "1.6.10+1.21.1",
+      "filename": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar"
+    },
+    {
+      "name": "Incendium",
+      "author": "Stardust Labs",
+      "modrinth_id": "ZVzW5oNS",
+      "version": "5.4.3",
+      "filename": "Incendium_1.21.x_v5.4.4.jar"
+    },
+    {
+      "name": "Incendium Translation Fix",
+      "author": "VictusFC",
+      "modrinth_id": "NPWDZBNG",
+      "version": "1.0.5",
+      "filename": "incendium_translation_fix_1.21.x_1.0.5.jar"
+    },
+    {
+      "name": "Indium",
+      "author": "comp500",
+      "modrinth_id": "Orvt0mRa",
+      "version": "1.0.35+mc1.21",
+      "filename": "indium-1.0.35+mc1.21.jar"
+    },
+    {
+      "name": "Infinite Trading",
+      "author": "Rick South",
+      "modrinth_id": "U3eoZT3o",
+      "version": "5.0",
+      "filename": "infinitetrading-1.21.1-5.0.jar"
+    },
+    {
+      "name": "Inventory Management",
+      "author": "Roundaround",
+      "modrinth_id": "F7wXag4i",
+      "version": "1.6.0",
+      "filename": "inventorymanagement-1.6.0+1.21.jar"
+    },
+    {
+      "name": "Iris",
+      "author": "coderbot, IMS212, Justsnoopy30, FoundationGames",
+      "modrinth_id": "YL57xq9U",
+      "version": "1.8.8+mc1.21.1",
+      "filename": "iris-fabric-1.8.8+mc1.21.1.jar"
+    },
+    {
+      "name": "Iron Barrels",
+      "author": "Me!",
+      "modrinth_id": "7qvEFHn9",
+      "version": "1.0.0",
+      "filename": "ironbarrels-fabric-1.1-mc1.21.jar"
+    },
+    {
+      "name": "Iron Bookshelves",
+      "author": "jahirtrap",
+      "modrinth_id": "QmCOBeSP",
+      "version": "1.21.1-1.4.11-fabric",
+      "filename": "ironbookshelves-1.21.1-1.4.11-fabric.jar"
+    },
+    {
+      "name": "Iron Chests",
+      "author": "anner",
+      "modrinth_id": "7mHyGgvW",
+      "version": "2.0.4",
+      "filename": "IronChests-2.0.4.jar"
+    },
+    {
+      "name": "Iron Ladders",
+      "author": "Nine",
+      "modrinth_id": "tWPvfGAB",
+      "version": "2.5.02",
+      "filename": "ironladders-fabric-2.5.02.jar"
+    },
+    {
+      "name": "Item Borders",
+      "author": "Grend",
+      "modrinth_id": "b1fMg6sH",
+      "version": "1.2.5",
+      "filename": "ItemBorders-1.21-fabric-1.2.5.jar"
+    },
+    {
+      "name": "ItemPhysicLite",
+      "author": "CreativeMD",
+      "modrinth_id": "OuyCgP8t",
+      "version": "1.6.5",
+      "filename": "ItemPhysicLite_FABRIC_v1.6.5_mc1.21.jar"
+    },
+    {
+      "name": "Jewelry (RPG Series)",
+      "author": "Daedelus",
+      "modrinth_id": "sNJAIjUm",
+      "version": "2.3.2+1.21.1",
+      "filename": "jewelry-fabric-2.3.2+1.21.1.jar"
+    },
+    {
+      "name": "Journeymap",
+      "author": "Mysticdrew, Techbrew, MemeSapiens",
+      "modrinth_id": "lfHFW1mp",
+      "version": "1.21-6.0.0-beta.27",
+      "filename": "journeymap-fabric-1.21-6.0.0-beta.27.jar"
+    },
+    {
+      "name": "Just Enough Items",
+      "author": "mezz",
+      "modrinth_id": "u6dRKJwZ",
+      "version": "19.27.0.340",
+      "filename": "jei-1.21.1-fabric-19.27.0.340.jar"
+    },
+    {
+      "name": "Just Enough Professions (JEP)",
+      "author": "Mrbysco, ShyNieke",
+      "modrinth_id": "kB56GtWA",
+      "version": "4.0.2",
+      "filename": "JustEnoughProfessions-fabric-1.21-4.0.2.jar"
+    },
+    {
+      "name": "Just Enough Resources",
+      "author": "way2muchnoise",
+      "modrinth_id": "uEfK2CXF",
+      "version": "1.6.0.11",
+      "filename": "JustEnoughResources-Fabric-1.21-1.6.0.11.jar"
+    },
+    {
+      "name": "Kiss a Friend!",
+      "author": "slonkazoid",
+      "modrinth_id": "VUQV5zGn",
+      "version": "1.0.0+1.21",
+      "filename": "kiss-a-friend-1.0.0+1.21.jar"
+    },
+    {
+      "name": "Kiwi Library",
+      "author": "Snownee",
+      "modrinth_id": "ufdDoWPd",
+      "version": "15.1.5+fabric",
+      "filename": "Kiwi-1.21-Fabric-15.1.5.jar"
+    },
+    {
+      "name": "Krypton",
+      "author": "tuxed",
+      "modrinth_id": "fQEb0iXm",
+      "version": "0.2.8",
+      "filename": "krypton-0.2.8.jar"
+    },
+    {
+      "name": "LambDynamicLights",
+      "author": "LambdAurora",
+      "modrinth_id": "yBW8D80W",
+      "version": "4.8.8+1.21.1",
+      "filename": "lambdynamiclights-4.8.8+1.21.1.jar"
+    },
+    {
+      "name": "Language Reload",
+      "author": "Jerozgen",
+      "modrinth_id": "uLbm7CG6",
+      "version": "1.7.6+1.21.1",
+      "filename": "language-reload-1.7.6+1.21.1.jar"
+    },
+    {
+      "name": "LibJF",
+      "author": "JFronny",
+      "modrinth_id": "WKwQAwke",
+      "version": "3.17.0",
+      "filename": "libjf-3.17.0.jar"
+    },
+    {
+      "name": "Lithium",
+      "author": "JellySquid, 2No2Name",
+      "modrinth_id": "gvQqBUqZ",
+      "version": "0.15.2+mc1.21.1",
+      "filename": "lithium-fabric-0.15.2+mc1.21.1.jar"
+    },
+    {
+      "name": "Lootr",
+      "author": "Noobanidus, ZestyBlaze, embeddedt",
+      "modrinth_id": "EltpO5cN",
+      "version": "1.21-1.10.35.99",
+      "filename": "lootr-fabric-1.21-1.10.35.99.jar"
+    },
+    {
+      "name": "M.R.U",
+      "author": "IMB11",
+      "modrinth_id": "SNVQ2c0g",
+      "version": "1.0.19+LTS+1.21.1+fabric",
+      "filename": "mineblock11"
+    },
+    {
+      "name": "MCPitanLib",
+      "author": "Pitan",
+      "modrinth_id": "uNRoUnGT",
+      "version": "3.7.1-1.21.1-fabric",
+      "filename": "mcpitanlib-3.7.1-1.21.1-fabric.jar"
+    },
+    {
+      "name": "MaLiLib",
+      "author": "masa",
+      "modrinth_id": "GcWjdA9I",
+      "version": "0.21.10",
+      "filename": "malilib-fabric-1.21-0.21.10.jar"
+    },
+    {
+      "name": "Minecraft Cursor",
+      "author": "fishstiz",
+      "modrinth_id": "o5fhgLeQ",
+      "version": "3.5.1+1.21-1.21.1",
+      "filename": "minecraft-cursor-3.5.1+1.21-1.21.1.jar"
+    },
+    {
+      "name": "Mod Menu",
+      "author": "Prospector, haykam821, TerraformersMC",
+      "modrinth_id": "mOgUt4GM",
+      "version": "11.0.4",
+      "filename": "modmenu-11.0.4.jar"
+    },
+    {
+      "name": "Model Gap Fix",
+      "author": "MehVahdJukaar",
+      "modrinth_id": "QdG47OkI",
+      "version": "1.21-1.6",
+      "filename": "modelfix-1.21-1.6-fabric.jar"
+    },
+    {
+      "name": "ModernFix",
+      "author": "embeddedt",
+      "modrinth_id": "nmDcB62a",
+      "version": "5.19.1+mc1.21",
+      "filename": "modernfix-fabric-5.19.1+mc1.21.jar"
+    },
+    {
+      "name": "Moog's Structure Lib",
+      "author": "FinnDog",
+      "modrinth_id": "1oUDhxuy",
+      "version": "2.0.4-fabric",
+      "filename": "moogs_structures-fabric-1.21.1-2.0.4.jar"
+    },
+    {
+      "name": "MoogsNetherStructures",
+      "author": "FinnDog",
+      "modrinth_id": "nGUXvjTa",
+      "version": "2.1.0",
+      "filename": "MoogsNetherStructures-1.21-2.1.0.jar"
+    },
+    {
+      "name": "More Armor Trims",
+      "author": "Masik16u",
+      "modrinth_id": "FGNYBAJ6",
+      "version": "1.5.2-1.21",
+      "filename": "more_armor_trims-1.5.2-1.21.jar"
+    },
+    {
+      "name": "More Chat History",
+      "author": "JackFred",
+      "modrinth_id": "8qkXwOnk",
+      "version": "1.3.1",
+      "filename": "morechathistory-1.3.1.jar"
+    },
+    {
+      "name": "More Culling",
+      "author": "FX - PR0CESS, 1Foxy2",
+      "modrinth_id": "51shyZVL",
+      "version": "1.0.7",
+      "filename": "moreculling-fabric-1.21.1-1.0.7.jar"
+    },
+    {
+      "name": "More Delight",
+      "author": "Axperty",
+      "modrinth_id": "znHQQtuU",
+      "version": "24.09.27-1.21-fabric",
+      "filename": "moredelight-24.09.27-1.21-fabric.jar"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "author": "Ivan Molodetskikh",
+      "modrinth_id": "aC3cM3Vq",
+      "version": "2.26",
+      "filename": "YaLTeR"
+    },
+    {
+      "name": "Nemo's Creatures",
+      "author": "NemoNotFound",
+      "modrinth_id": "gfk2cUFK",
+      "version": "1.8-1.21.1",
+      "filename": "nemos-creatures-1.8-1.21.1.jar"
+    },
+    {
+      "name": "No Resource Pack Warnings",
+      "author": "Space Walker",
+      "modrinth_id": "6xKUDQcB",
+      "version": "1.3.1",
+      "filename": "no-resource-pack-warnings-1.3.1.jar"
+    },
+    {
+      "name": "No Telemetry",
+      "author": "kb1000",
+      "modrinth_id": "hg77g4Pw",
+      "version": "1.10.0",
+      "filename": "no-telemetry-1.10.0.jar"
+    },
+    {
+      "name": "NoExpensive",
+      "author": "Enaium",
+      "modrinth_id": "2nz0kJ1N",
+      "version": "1.21-1.9.2",
+      "filename": "NE-1.21-1.9.2.jar"
+    },
+    {
+      "name": "NoRealmsButton",
+      "author": "Tigercrl",
+      "modrinth_id": "AMMUyCdF",
+      "version": "2.0.2",
+      "filename": "NoRealmsButton-2.0.2.jar"
+    },
+    {
+      "name": "Noisium",
+      "author": "Steveplays28",
+      "modrinth_id": "hasdd01q",
+      "version": "2.7.0+mc1.21-1.21.1",
+      "filename": "noisium-fabric-2.7.0+mc1.21-1.21.1.jar"
+    },
+    {
+      "name": "Nullscape",
+      "author": "Stardust Labs",
+      "modrinth_id": "LPjGiSO4",
+      "version": "1.2.14",
+      "filename": "Nullscape_1.21.x_v1.2.14.jar"
+    },
+    {
+      "name": "Nyf's Spiders",
+      "author": "Nyfaria",
+      "modrinth_id": "dOGM7ccu",
+      "version": "2.3.1",
+      "filename": "nyfsspiders-fabric-1.21-2.3.1.jar"
+    },
+    {
+      "name": "OctoLib",
+      "author": "OctoStudios",
+      "modrinth_id": "RH2KUdKJ",
+      "version": "0.4.2",
+      "filename": "OctoLib-FABRIC-0.4.2.jar"
+    },
+    {
+      "name": "PacketFixer",
+      "author": "TonimatasDEV",
+      "modrinth_id": "c7m1mi73",
+      "version": "3.3.1",
+      "filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+    },
+    {
+      "name": "Particle Core",
+      "author": "fzzyhmstrs",
+      "modrinth_id": "RSeLon5O",
+      "version": "0.3.3+1.21",
+      "filename": "particle_core-0.3.3+1.21.jar"
+    },
+    {
+      "name": "Particle Rain",
+      "author": "PigCart",
+      "modrinth_id": "nrikgvxm",
+      "version": "3.0.5",
+      "filename": "particle-rain-3.0.5.jar"
+    },
+    {
+      "name": "Patchouli",
+      "author": "Vazkii, williewillus",
+      "modrinth_id": "nU0bVIaL",
+      "version": "1.21-89-FABRIC",
+      "filename": "Patchouli-1.21-89-FABRIC.jar"
+    },
+    {
+      "name": "Player Animator",
+      "author": "KosmX",
+      "modrinth_id": "gedNE4y2",
+      "version": "2.0.0-alpha0+1.21",
+      "filename": "player-animation-lib-fabric-2.0.0-alpha0+1.21.jar"
+    },
+    {
+      "name": "Player Collars",
+      "author": "jlortiz0",
+      "modrinth_id": "E1XS8bXN",
+      "version": "1.6.0-beta.2+1.21.1",
+      "filename": "PlayerCollars-1.6.0-beta.2+1.21.1.jar"
+    },
+    {
+      "name": "Player Locator Plus",
+      "author": "sit &lt;me@sit.sh&gt;",
+      "modrinth_id": "e0Yt2i7Q",
+      "version": "2.2.0",
+      "filename": "player-locator-plus-2.2.0.jar"
+    },
+    {
+      "name": "Presence Footsteps",
+      "author": "Hurricaaane",
+      "modrinth_id": "rcTfTZr3",
+      "version": "1.11.1+1.21",
+      "filename": "Ha3"
+    },
+    {
+      "name": "Puzzles Lib",
+      "author": "Fuzs",
+      "modrinth_id": "QAGBst4M",
+      "version": "21.0.20",
+      "filename": "PuzzlesLib-v21.0.20-1.21-Fabric.jar"
+    },
+    {
+      "name": "Raise Sound Limit Simplified",
+      "author": "ishland",
+      "modrinth_id": "SKW62Pht",
+      "version": "1.1.15",
+      "filename": "rsls-1.1.15.jar"
+    },
+    {
+      "name": "RangedWeaponAPI",
+      "author": "Daedelus",
+      "modrinth_id": "AqaIIO6D",
+      "version": "2.3.3+1.21.1",
+      "filename": "ranged_weapon_api-fabric-2.3.3+1.21.1.jar"
+    },
+    {
+      "name": "Reborn Core",
+      "author": "Team Reborn, modmuss50, drcrazy",
+      "modrinth_id": "3NCrJdj3",
+      "version": "5.11.19",
+      "filename": "RebornCore-5.11.19.jar"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "author": "FlashyReese",
+      "modrinth_id": "Bh37bMuy",
+      "version": "1.8.3+mc1.21.4",
+      "filename": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+    },
+    {
+      "name": "Repacked",
+      "author": "Unknown",
+      "modrinth_id": "roKs0YXd",
+      "version": "1.0",
+      "filename": "Repacked-1.0-1.21.jar"
+    },
+    {
+      "name": "Resourceful Lib",
+      "author": "ThatGravyBoat, Epic_Oreo",
+      "modrinth_id": "G1hIVOrD",
+      "version": "3.0.0",
+      "filename": "resourcefullib-fabric-1.21-3.0.0.jar"
+    },
+    {
+      "name": "Resourcefulconfig",
+      "author": "ThatGravyBoat",
+      "modrinth_id": "M1953qlQ",
+      "version": "3.0.8",
+      "filename": "resourcefulconfig-fabric-1.21-3.0.8.jar"
+    },
+    {
+      "name": "Room For Two",
+      "author": "Sir_Cow",
+      "modrinth_id": "YZlvzIFq",
+      "version": "0.0.2",
+      "filename": "roomfortwo-fabric-1.21.1-0.0.2.jar"
+    },
+    {
+      "name": "Sea Creatures",
+      "author": "Midnight_Jerry",
+      "modrinth_id": "6ZXD5u5F",
+      "version": "1.0.0",
+      "filename": "sea-creatures-1.0.0.jar"
+    },
+    {
+      "name": "Seamless",
+      "author": "LarsMans",
+      "modrinth_id": "rhyHyQke",
+      "version": "2.3.3",
+      "filename": "seamless-2.3.3-fabric-1.21.1.jar"
+    },
+    {
+      "name": "Searchables",
+      "author": "Jaredlll08",
+      "modrinth_id": "fuuu3xnx",
+      "version": "1.0.5",
+      "filename": "Searchables-fabric-1.21-1.0.5.jar"
+    },
+    {
+      "name": "Show Me Your Skin!",
+      "author": "enjarai",
+      "modrinth_id": "bD7YqcA3",
+      "version": "1.11.3+1.21",
+      "filename": "show-me-your-skin-1.11.3+1.21.jar"
+    },
+    {
+      "name": "Sit",
+      "author": "bl4ckscor3",
+      "modrinth_id": "VKXzIykF",
+      "version": "1.21-28",
+      "filename": "sit-1.21-28.jar"
+    },
+    {
+      "name": "Small Ships",
+      "author": "talhanation, metroite",
+      "modrinth_id": "rGWEHQrP",
+      "version": "2.0.0-b1.5",
+      "filename": "smallships-fabric-1.21-2.0.0-b1.5.jar"
+    },
+    {
+      "name": "SmeltingTouch",
+      "author": "UltrusBot",
+      "modrinth_id": "otiSEfKe",
+      "version": "1.4.0+1.21",
+      "filename": "SmeltingTouch-fabric-1.4.0+1.21.jar"
+    },
+    {
+      "name": "Smooth Scroll",
+      "author": "SlovakSmileSK",
+      "modrinth_id": "CllP7wW0",
+      "version": "2.2.1",
+      "filename": "smoothscroll-2.2.1-1.21.1.jar"
+    },
+    {
+      "name": "Sodium",
+      "author": "JellySquid",
+      "modrinth_id": "AANobbMI",
+      "version": "0.6.13+mc1.21.1",
+      "filename": "jellysquid3"
+    },
+    {
+      "name": "Sodium Extra",
+      "author": "FlashyReese",
+      "modrinth_id": "PtjYWJkn",
+      "version": "0.6.0+mc1.21.1",
+      "filename": "sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "author": "Sonic Ether, vlad2305m, Max Henkel, Saint",
+      "modrinth_id": "qyVF9oeo",
+      "version": "1.21.1-1.5.1",
+      "filename": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "Sounds",
+      "author": "IMB11",
+      "modrinth_id": "ZouiUX7t",
+      "version": "2.4.21+lts",
+      "filename": "mineblock11"
+    },
+    {
+      "name": "SpaceCube",
+      "author": "Pitan",
+      "modrinth_id": "H5uBVVRE",
+      "version": "0.9.19",
+      "filename": "spacecube-fabric-0.9.19.jar"
+    },
+    {
+      "name": "Spell Power Attribute",
+      "author": "Daedelus",
+      "modrinth_id": "8ooWzSQP",
+      "version": "1.4.6+1.21.1",
+      "filename": "spell_power-fabric-1.4.6+1.21.1.jar"
+    },
+    {
+      "name": "Status Effect Bars",
+      "author": "Neecko5b84",
+      "modrinth_id": "x02cBj9Y",
+      "version": "1.0.6",
+      "filename": "status-effect-bars-1.0.6.jar"
+    },
+    {
+      "name": "Stfu",
+      "author": "ItsFelix5",
+      "modrinth_id": "Rg9WdvvR",
+      "version": "1.3.1",
+      "filename": "Stfu-1.3.1.jar"
+    },
+    {
+      "name": "Structure Pool API",
+      "author": "Daedelus",
+      "modrinth_id": "LrYZi08Q",
+      "version": "1.2.1+1.21.1",
+      "filename": "structure_pool_api-fabric-1.2.1+1.21.1.jar"
+    },
+    {
+      "name": "Tech Reborn",
+      "author": "Team Reborn, modmuss50, drcrazy",
+      "modrinth_id": "3eMENr4V",
+      "version": "5.11.19",
+      "filename": "TechReborn-5.11.19.jar"
+    },
+    {
+      "name": "Terralith",
+      "author": "Stardust Labs",
+      "modrinth_id": "8oi3bsk5",
+      "version": "2.5.8",
+      "filename": "Terralith_1.21.x_v2.5.8.jar"
+    },
+    {
+      "name": "Tiny Item Animations",
+      "author": "Trivaxy",
+      "modrinth_id": "wMkevcSR",
+      "version": "1.2.1",
+      "filename": "tia-fabric-1.21-1.2.1.jar"
+    },
+    {
+      "name": "ToolTip Fix",
+      "author": "kyrptonaught",
+      "modrinth_id": "2RKFTmiB",
+      "version": "1.1.1-1.20",
+      "filename": "tooltipfix-1.1.1-1.20.jar"
+    },
+    {
+      "name": "ToroHealth Damage Indicators",
+      "author": "ToroCraft",
+      "modrinth_id": "FZGNeNIO",
+      "version": "1.21.1-fabric-1",
+      "filename": "torohealth-1.21.1-fabric-1.jar"
+    },
+    {
+      "name": "ToughAsNails",
+      "author": "Adubbz, Forstride",
+      "modrinth_id": "ge1sOdFH",
+      "version": "10.0.0.12",
+      "filename": "ToughAsNails-fabric-1.21-10.0.0.12.jar"
+    },
+    {
+      "name": "TrashSlot",
+      "author": "BlayTheNinth",
+      "modrinth_id": "vRYk0bv7",
+      "version": "21.1.4",
+      "filename": "trashslot-fabric-1.21.1-21.1.4.jar"
+    },
+    {
+      "name": "Traveler's Backpack",
+      "author": "Tiviacz1337",
+      "modrinth_id": "rlloIFEV",
+      "version": "10.1.19",
+      "filename": "travelersbackpack-fabric-1.21.1-10.1.19.jar"
+    },
+    {
+      "name": "Trinkets",
+      "author": "Emi, C4",
+      "modrinth_id": "5aaWibi9",
+      "version": "3.10.0",
+      "filename": "trinkets-3.10.0.jar"
+    },
+    {
+      "name": "Vein Mining",
+      "author": "Illusive Soulworks",
+      "modrinth_id": "bRAPbNyF",
+      "version": "5.0.0-beta+1.21",
+      "filename": "veinmining-fabric-5.0.0-beta+1.21.jar"
+    },
+    {
+      "name": "Vivecraft",
+      "author": "fayer3, Ferri_Arnus, IMS, jrbudda, minecraft player, Techjar",
+      "modrinth_id": "wGoQDPN5",
+      "version": "1.21.1-1.3.9",
+      "filename": "vivecraft-1.21.1-1.3.9-fabric.jar"
+    },
+    {
+      "name": "WeatherRefind",
+      "author": "Norevy",
+      "modrinth_id": "Qyzsewil",
+      "version": "1.1",
+      "filename": "WeatherRefind-fabric-1.21.1-v1.1.jar"
+    },
+    {
+      "name": "Web",
+      "author": "PotatoWolfie",
+      "modrinth_id": "y6IaGCHf",
+      "version": "1.0.4",
+      "filename": "web-1.0.4-1-21.jar"
+    },
+    {
+      "name": "What Are They Up To",
+      "author": "Corosus",
+      "modrinth_id": "AtB5mHky",
+      "version": "1.21.0-1.2.7",
+      "filename": "watut-fabric-1.21.0-1.2.7.jar"
+    },
+    {
+      "name": "Winterly",
+      "author": "PinkGoosik, VioletSomik",
+      "modrinth_id": "CEvDfomf",
+      "version": "0.11.2+1.21",
+      "filename": "winterly-0.11.2+1.21.jar"
+    },
+    {
+      "name": "WunderLib",
+      "author": "Quiqueck",
+      "modrinth_id": "8O0Adq7w",
+      "version": "21.0.8",
+      "filename": "wunderlib-21.0.8.jar"
+    },
+    {
+      "name": "YUNG's API",
+      "author": "YUNGNICKYOUNG",
+      "modrinth_id": "Ua7DFN59",
+      "version": "1.21.1-Fabric-5.1.6",
+      "filename": "YungsApi-1.21.1-Fabric-5.1.6.jar"
+    },
+    {
+      "name": "YUNG's Better Caves",
+      "author": "YUNGNICKYOUNG",
+      "modrinth_id": "Dfu00ggU",
+      "version": "1.21.1-Fabric-3.1.4",
+      "filename": "YungsBetterCaves-1.21.1-Fabric-3.1.4.jar"
+    },
+    {
+      "name": "YUNG's Better Desert Temples",
+      "author": "YUNGNICKYOUNG, Tera",
+      "modrinth_id": "XNlO7sBv",
+      "version": "1.21.1-Fabric-4.1.5",
+      "filename": "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "o1C1Dkj5",
+      "version": "1.21.1-Fabric-5.1.4",
+      "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+    },
+    {
+      "name": "YUNG's Better End Island",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "2BwBOmBQ",
+      "version": "1.21.1-Fabric-3.1.2",
+      "filename": "YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar"
+    },
+    {
+      "name": "YUNG's Better Jungle Temples",
+      "author": "YUNGNICKYOUNG, Tera",
+      "modrinth_id": "z9Ve58Ih",
+      "version": "1.21.1-Fabric-3.1.2",
+      "filename": "YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "author": "YUNGNICKYOUNG",
+      "modrinth_id": "HjmxVlSr",
+      "version": "1.21.1-Fabric-5.1.1",
+      "filename": "YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "Z2mXHnxP",
+      "version": "1.21.1-Fabric-3.1.5",
+      "filename": "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments",
+      "author": "YUNGNICKYOUNG, Tera",
+      "modrinth_id": "3dT9sgt4",
+      "version": "1.21.1-Fabric-4.1.2",
+      "filename": "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "kidLKymU",
+      "version": "1.21.1-Fabric-5.1.3",
+      "filename": "YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
+    },
+    {
+      "name": "YUNG's Better Witch Huts",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "t5FRdP87",
+      "version": "1.21.1-Fabric-4.1.1",
+      "filename": "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+    },
+    {
+      "name": "YUNG's Bridges",
+      "author": "YUNGNICKYOUNG",
+      "modrinth_id": "Ht4BfYp6",
+      "version": "1.21.1-Fabric-5.1.1",
+      "filename": "YungsBridges-1.21.1-Fabric-5.1.1.jar"
+    },
+    {
+      "name": "YUNG's Extras",
+      "author": "YUNGNICKYOUNG, Acarii",
+      "modrinth_id": "ZYgyPyfq",
+      "version": "1.21.1-Fabric-5.1.1",
+      "filename": "YungsExtras-1.21.1-Fabric-5.1.1.jar"
+    },
+    {
+      "name": "YUNG's Menu Tweaks",
+      "author": "YUNGNICKYOUNG",
+      "modrinth_id": "Hcy2DFKF",
+      "version": "1.21.1-Fabric-2.1.2",
+      "filename": "YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "author": "isXander",
+      "modrinth_id": "1eAoo2KR",
+      "version": "3.6.2+1.21-fabric",
+      "filename": "YetAnotherConfigLib-3.6.2+1.21-fabric.jar"
+    },
+    {
+      "name": "Zoomify",
+      "author": "isXander",
+      "modrinth_id": "w7ThoJFB",
+      "version": "2.14.0+1.21",
+      "filename": "Zoomify-2.14.0+1.21.jar"
+    },
+    {
+      "name": "oωo",
+      "author": "glisco",
+      "modrinth_id": "ccKDOlHs",
+      "version": "0.13.0-alpha.15+1.21",
+      "filename": "owo-lib-0.13.0-alpha.15+1.21.jar"
+    },
+    {
+      "name": "root project 'Prism'",
+      "author": "Grend",
+      "modrinth_id": "1OE8wbN0",
+      "version": "1.0.9",
+      "filename": "Prism-1.21-fabric-1.0.9.jar"
+    },
+    {
+      "name": "uku's Armor HUD",
+      "author": "BerdinskiyBear, uku",
+      "modrinth_id": "wF189hn9",
+      "version": "0.5.1+mc1.21",
+      "filename": "ukus-armor-hud-0.5.1+mc1.21.jar"
+    },
+    {
+      "name": "ukulib",
+      "author": "uku",
+      "modrinth_id": "Y8uFrUil",
+      "version": "1.4.0+1.21",
+      "filename": "ukulib-1.4.0+1.21.jar"
+    }
+  ]
+}
